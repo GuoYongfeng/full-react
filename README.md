@@ -1,1 +1,1 @@
-# React-Flux
+# full-react
