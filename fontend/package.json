@@ -1,25 +1,24 @@
 {
-  "name": "flux-demo-static",
-  "version": "0.1.0",
-  "description": "",
+  "name": "fontend",
+  "version": "1.0.0",
+  "description": "react redux",
+  "main": "gulpfile.js",
   "scripts": {
-    "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "chenmnkken@gmail.com",
-  "license": "ISC",
-  "devDependencies": {
-    "babelify": "6.1.2",
-    "browserify": "10.2.4",
-    "cacheify": "0.4.1",
-    "gulp": "3.9.0",
-    "gulp-connect": "2.2.0",
-    "gulp-less": "3.0.3",
-    "gulp-util": "3.0.5",
-    "less-plugin-autoprefix": "1.4.2",
-    "leveldown": "1.4.1",
-    "levelup": "1.2.1",
-    "vinyl-source-stream": "1.1.0",
-    "watchify": "3.2.2"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GuoYongfeng/full-react.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "webpack"
+  ],
+  "author": "GuoYongfeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuoYongfeng/full-react/issues"
+  },
+  "homepage": "https://github.com/GuoYongfeng/full-react#readme"
 }
